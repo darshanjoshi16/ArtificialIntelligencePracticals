@@ -1,0 +1,10 @@
+parent(paul,lily).
+parent(paul,petunia).
+parent(helen,lily).
+parent(helen,petunia).
+parent(albert,james).
+parent(ruth,james).
+parent(lily,harry).
+parent(james,harry).
+parent(vernon,dudley).
+parent(petunia,dudley).
